@@ -1,0 +1,3 @@
+name: ec2-bootstrap-lambda
+runtime: nodejs
+description: aws lambda to call a github workflow to boot a aws ec2 instance
